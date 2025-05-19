@@ -1,15 +1,30 @@
-# Snyder Institute for Chronic Diseases
-> A partnership between the University of Calgary and Alberta Health Services.
+# Snyder Institute | Bioinformatics & Data Science Hub
+> _Empowering chronic disease research through open, reproducible, and collaborative computational tools._
 
 ![Logo](./imgs/logo_dark.png#gh-dark-mode-only)
 ![Logo](./imgs/logo_light.png#gh-light-mode-only)
 
 ## Research at the Snyder Institute for Chronic Diseases
-  * Since its founding in 2006, the Snyder Institute for Chronic Diseases has grown to be a thriving Institute with two major research themes: inflammation, and host-microbe interactions, (harmful disease-causing pathogens and beneficial microorganisms). Through these two themes, we focus our research on six main areas: Airway Inflammation, Bacterial Pathogenesis, Gastrointestinal Diseases, Immunology, Inflammation, and Precision Medicine in Nephrology.
+Welcome to the official GitHub organization of the **Snyder Institute for Chronic Diseases** at the University of Calgary.
 
-  * We study the impact of chronic inflammatory diseases such as inflammatory bowel disease (IBD), asthma, diabetes and other autoimmune diseases, with a particular interest in the microbiome and immunobiome, and viral, bacterial and parasitic infections.
+We are a multidisciplinary research institute focused on advancing the understanding, diagnosis, and treatment of chronic diseases through innovative science, cutting-edge technologies, and collaborative expertise.
 
-  * Our more than 400 Snyder Institute faculty members, research staff/scientists and trainees are basic science and clinical investigators working together, dedicated to uncovering new knowledge that will prevent disease, improve patient care, and transform the quality of life and well-being for those suffering from chronic inflammatory diseases.
+This GitHub organization serves as a central hub for sharing software tools, analysis pipelines, data visualization scripts, and other computational resources developed by our research teams. Our goal is to promote open science, reproducibility, and collaboration within the scientific community.
 
-  * By ensuring the patient is centre-stage in our research agenda, and understanding that every patient is unique, we are dedicated to providing Albertans and those around the world with access to individualized prevention and treatment plans – also known as precision medicine.   
-  
+### Areas of Research
+  * Immunology & Inflammation
+  * Microbiome & Host Interactions
+  * Gastrointestinal & Respiratory Health
+  * Systems Biology & Spatial Omics
+  * Clinical Translation & Data Science
+
+### Repositories
+You will find projects ranging from:
+  * Bioinformatics workflows
+  * Data preprocessing and QC scripts
+  * Visualization tools for omics and imaging data
+  * Interactive dashboards and web tools
+  * Experimental protocols and reproducible research environments
+
+### Collaborate With Us
+We welcome contributions, collaborations, and feedback. If you’re interested in working with our researchers or using our tools, feel free to explore our repositories or reach out through our official website.
