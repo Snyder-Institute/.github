@@ -1,4 +1,4 @@
-# Snyder Institute | Bioinformatics & Data Science Hub
+# Snyder Institute | Bioinformatics Hub
 > _Empowering chronic disease research through open, reproducible, and collaborative computational tools._
 
 ![Logo](./imgs/logo_dark.png#gh-dark-mode-only)
