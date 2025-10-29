@@ -4,27 +4,30 @@
 ![Logo](./imgs/logo_dark.png#gh-dark-mode-only)
 ![Logo](./imgs/logo_light.png#gh-light-mode-only)
 
-## Research at the Snyder Institute for Chronic Diseases
-Welcome to the official GitHub organization of the **Snyder Institute for Chronic Diseases** at the University of Calgary.
+## About
+The **Bioinformatics Hub** at the **University of Calgary** serves as the central computational research unit within the **Snyder Institute for Chronic Diseases**.
 
-We are a multidisciplinary research institute focused on advancing the understanding, diagnosis, and treatment of chronic diseases through innovative science, cutting-edge technologies, and collaborative expertise.
+We bridge biological discovery and computational innovation by developing and maintaining open-source tools, analysis pipelines, and data visualization resources. Our mission is to advance chronic disease research through **transparency**, **reproducibility**, and **collaboration**.
 
-This GitHub organization serves as a central hub for sharing software tools, analysis pipelines, data visualization scripts, and other computational resources developed by our research teams. Our goal is to promote open science, reproducibility, and collaboration within the scientific community.
+This GitHub organization hosts the collective work of the Bioinformatics Hub and affiliated research groups—enabling institute-wide access to reproducible data processing workflows and promoting shared infrastructure for computational analysis.
 
-### Areas of Research
-  * Immunology & Inflammation
-  * Microbiome & Host Interactions
-  * Gastrointestinal & Respiratory Health
-  * Systems Biology & Spatial Omics
-  * Clinical Translation & Data Science
+## Focus areas
+- Clinical translation and data science
+- Microbiome and host interactions
+- Immunology and inflammation  
+- Gastrointestinal and respiratory health  
+- Systems biology and spatial omics  
 
-### Repositories
-You will find projects ranging from:
-  * Bioinformatics workflows
-  * Data preprocessing and QC scripts
-  * Visualization tools for omics and imaging data
-  * Interactive dashboards and web tools
-  * Experimental protocols and reproducible research environments
+## What you’ll find here
+This repository hosts a range of bioinformatics and data science resources developed at the Snyder Institute, including:
 
-### Collaborate With Us
-We welcome contributions, collaborations, and feedback. If you’re interested in working with our researchers or using our tools, feel free to explore our repositories or reach out through our official website.
+- Sequencing and preprocessing pipelines (e.g., Nanopore, Illumina)  
+- Data quality control and summarization scripts  
+- Visualization and reporting tools  
+- Reproducible research environments for omics analysis  
+
+Most computational repositories are developed and maintained by the **Bioinformatics Hub**, ensuring continuity, documentation, and long-term reproducibility.
+
+## Connect with us
+We welcome collaboration and feedback.  
+If you are interested in using our pipelines, sharing analysis results, or contributing to shared resources, please visit [our homepage](https://bioinformatics.ucalgary.ca/).
