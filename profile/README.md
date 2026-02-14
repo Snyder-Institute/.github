@@ -27,7 +27,3 @@ This repository hosts a range of bioinformatics and data science resources devel
 - Reproducible research environments for omics analysis  
 
 Most computational repositories are developed and maintained by the **Bioinformatics Hub**, ensuring continuity, documentation, and long-term reproducibility.
-
-## Connect with us
-We welcome collaboration and feedback.  
-If you are interested in using our pipelines, sharing analysis results, or contributing to shared resources, please visit [our homepage](https://bioinformatics.ucalgary.ca/).
